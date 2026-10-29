@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:30:30 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326399429025924</link>
@@ -28,6 +28,13 @@
       <description>test</description>
       <guid isPermaLink="false">discord-msg-1565477915775205621</guid>
       <pubDate>Thu, 29 Oct 2026 21:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from McAfee</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565477958804574219</link>
+      <description>test3</description>
+      <guid isPermaLink="false">discord-msg-1565477958804574219</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
