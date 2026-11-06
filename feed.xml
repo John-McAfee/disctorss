@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 10:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:48:56 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -26,6 +26,17 @@
 &gt; -# Open vampires, werewolves, daedra, etc. should expect potentially hostile encounters in Abah's Landing.</description>
       <guid isPermaLink="false">discord-msg-1565482163393134763</guid>
       <pubDate>Thu, 29 Oct 2026 21:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1568070821942001716</link>
+      <description>&gt; *People gather in Rimmen's Sugar Bowl inn and tavern for discounted drinks, celebrating the end of a long day, or for some, the beginnings of a long night*
+
+[Open social RP in Rimmen's tavern! The vibe is local and immersive, feel free to reach out for phasing or questions `@rosehead`]
+
+@Elsweyr Ping</description>
+      <guid isPermaLink="false">discord-msg-1568070821942001716</guid>
+      <pubDate>Fri, 06 Nov 2026 01:13:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
