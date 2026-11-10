@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:48:55 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -37,6 +37,18 @@
 @Elsweyr Ping</description>
       <guid isPermaLink="false">discord-msg-1568070821942001716</guid>
       <pubDate>Fri, 06 Nov 2026 01:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1568438602508017771</link>
+      <description>@Hammerfell Ping
+
+*The warmth of Abah's Landing harkens! What tales will you tell? What rumors will you hear? What connections and friendships might you make? Find out as the city comes alive!*
+
+&gt; **Roleplayers Unlimited's** weekly Abah's Landing RP is starting in the courtyard of the **Hew's Mane tavern**! Feel free to stop by, or start your own RP scene in Abah's Landing! You can whisper ``@Nitewalker314`` for a port until &lt;t:1794018600:t&gt;.
+&gt; -# Open vampires, werewolves, daedra, etc. should expect potentially hostile encounters in Abah's Landing.</description>
+      <guid isPermaLink="false">discord-msg-1568438602508017771</guid>
+      <pubDate>Sat, 07 Nov 2026 01:35:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
