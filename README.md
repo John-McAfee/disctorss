@@ -1,2 +1,2 @@
-# disctorss
-Prints discord channel messages to RSS for general use.
+# disc2rss
+Repository for the RSS feed.xml that is updated on every ESO RP Beacon Global post 
