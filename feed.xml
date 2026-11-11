@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:59:46 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -49,6 +49,32 @@
 &gt; -# Open vampires, werewolves, daedra, etc. should expect potentially hostile encounters in Abah's Landing.</description>
       <guid isPermaLink="false">discord-msg-1568438602508017771</guid>
       <pubDate>Sat, 07 Nov 2026 01:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1569863593279754264</link>
+      <description>*A rabble-rouser. A reaver. A ruckus-maker. A barbarian.*
+
+*That's who's standing at the eponymous Dragon Bridge, preventing crossing for near-about every traveller. Violent? Maybe. Annoying? Definitely.*
+
+*The local guards have alluded to rewarding anyone who manages to remove the half-wit. Even then, having free access to the bridge is reward enough - which is to say nothing for the gratitude of Haafingar's locals.*
+
+*So, are you going to cross the bridge? Or should you just find another way around?*
+
+(( Looking to break up the monotony a bit? Hungry for the sort of 'random encounter' experience you'd find in other Elder Scrolls titles? Stop by Dragon Bridge! Conflict strongly encouraged, but nothing that's gonna severely devastate involved characters. Message @ wyrdflex in-game, if you're needing directions. ))</description>
+      <guid isPermaLink="false">discord-msg-1569863593279754264</guid>
+      <pubDate>Tue, 10 Nov 2026 23:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1569889378099138665</link>
+      <description>*And thus did the Barbarian depart - peaceably!*
+
+*The onlooking guards were astounded, in their own way, expecting the bridge to become bloodied by another, hasty combat. To hear them tell it, the braggart had left in friendship, proclaiming the last challenger for a new comrade in arms.*
+
+*Dragon Bridge has been opened, again, but there's little doubt that the warrior's aims in Haafingar had concluded. After all, friendship with a Nord is never easily given, and nearly always precludes a promise of fight.*</description>
+      <guid isPermaLink="false">discord-msg-1569889378099138665</guid>
+      <pubDate>Wed, 11 Nov 2026 01:39:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
