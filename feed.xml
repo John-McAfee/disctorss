@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:19:39 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -75,6 +75,32 @@
 *Dragon Bridge has been opened, again, but there's little doubt that the warrior's aims in Haafingar had concluded. After all, friendship with a Nord is never easily given, and nearly always precludes a promise of fight.*</description>
       <guid isPermaLink="false">discord-msg-1569889378099138665</guid>
       <pubDate>Wed, 11 Nov 2026 01:39:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570241491975278594</link>
+      <description>*The **Eversnow Inn.** A roadside hostel, built to house the refugees of long ruined Karthwasten, pays host to a clamor - a riotous shouting and song-making that might well echo into the fringes of distant **Morthal.** *
+
+*A wonder, to the passerby, that the source of all this commotion is but a single, wayfaring warrior. An outlaw on the lamb, some would say. By his own word? A reaver, bent to ruin and war.*
+
+*He's a whole barrel of drink to himself, and half the whole realm echoing with that incessant, yammering tongue. Half-drunk, alive with purpose, he spouts indignant claims for revenge and plunder, invoking the **memory of Karthwasten**, goading those present to action and fight.*
+
+*Would that he wasn't spending his coin so free, or his rabble-rousing might easier be dismissed....*
+
+( Hosting at the Eversnow Inn for a couple hours. Map screen shows the rough area. If you need directions, or help getting a port, just message @wyrdflex in game! )</description>
+      <guid isPermaLink="false">discord-msg-1570241491975278594</guid>
+      <pubDate>Thu, 12 Nov 2026 00:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570263620430856263</link>
+      <description>*Unhindered, the one-man riot went on through and unto morning, with only the promise of daylight plunder allowing for a break in his drinking.*
+
+*It would seem that the quiet holdfast of **Eversnow** is to remain - for now - the warrior's favored retreat.*
+
+( Beacon departed, but stay tuned for more in series! )</description>
+      <guid isPermaLink="false">discord-msg-1570263620430856263</guid>
+      <pubDate>Thu, 12 Nov 2026 02:27:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
