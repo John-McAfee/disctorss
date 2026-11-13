@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:58:52 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -101,6 +101,17 @@
 ( Beacon departed, but stay tuned for more in series! )</description>
       <guid isPermaLink="false">discord-msg-1570263620430856263</guid>
       <pubDate>Thu, 12 Nov 2026 02:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570604012196208722</link>
+      <description>@Valenwood Ping 
+
+*A gathering at Tree-Ring Trading Circle **in Woodhearth** has begun for a public, interactive lecture on Perchance in Bosmeri life and magic.*
+
+(contact `@rosehead` for phasing or questions)</description>
+      <guid isPermaLink="false">discord-msg-1570604012196208722</guid>
+      <pubDate>Fri, 13 Nov 2026 00:59:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
