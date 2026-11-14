@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:11:39 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -112,6 +112,18 @@
 (contact `@rosehead` for phasing or questions)</description>
       <guid isPermaLink="false">discord-msg-1570604012196208722</guid>
       <pubDate>Fri, 13 Nov 2026 00:59:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570968696778657815</link>
+      <description>&gt; &gt; *An Ohmes khajiit can be found in the Sugar Bowl in Rimmen, checking in a room and having a meal.*
+
+[Small, open RP in Rimmen, local characters suggested, but not required. Message
+`@rosehead` with questions]
+
+@Elsweyr Ping</description>
+      <guid isPermaLink="false">discord-msg-1570968696778657815</guid>
+      <pubDate>Sat, 14 Nov 2026 01:08:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
