@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:06:32 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -161,6 +161,17 @@
 (Skyrim departed. May pick this back up in a few hours!)</description>
       <guid isPermaLink="false">discord-msg-1571260866123268108</guid>
       <pubDate>Sat, 14 Nov 2026 20:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1571390616036970590</link>
+      <description>*The clamor at the **Eversnow Inn** has reached a new timbre, tonight, with the clamorous character at center of it proclaiming, proud, his intent to storm a nearby camp of giants.*
+
+*The question around the tables isn't whether he truly intends to do battle with giants, but rather if his boasting comes from a place of too much mead.... or not nearly enough.*
+
+(For contact or group - Character: `Bralgi Floe-Foot` / Username: `@wyrdflex`. Location - Eversnow Inn, Western Skyrim (just to the west, a little, of the South Watch wayshrine. Conflict welcome within reason. Potential D20 combat encounter to go with this.)</description>
+      <guid isPermaLink="false">discord-msg-1571390616036970590</guid>
+      <pubDate>Sun, 15 Nov 2026 05:05:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
