@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:41:44 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -172,6 +172,15 @@
 (For contact or group - Character: `Bralgi Floe-Foot` / Username: `@wyrdflex`. Location - Eversnow Inn, Western Skyrim (just to the west, a little, of the South Watch wayshrine. Conflict welcome within reason. Potential D20 combat encounter to go with this.)</description>
       <guid isPermaLink="false">discord-msg-1571390616036970590</guid>
       <pubDate>Sun, 15 Nov 2026 05:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1571398552884875347</link>
+      <description>*The would-be giantslayer appears to be pursuing his boast, after all, and has torn into the wilderness in pursuit of his quarry. Time will tell if his hunt proves succesful.*
+
+(Beacon moved, but scene still in play. En route to **Karthald Giant camp!** Whisper for invite/directions!)</description>
+      <guid isPermaLink="false">discord-msg-1571398552884875347</guid>
+      <pubDate>Sun, 15 Nov 2026 05:36:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
