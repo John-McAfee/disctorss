@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:03:24 +0000</lastBuildDate>
     <item>
       <title>Message from McAfee</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1565326862048174214</link>
@@ -206,6 +206,24 @@ Come to **The Lonely Troll Inn** in Solitude for some gossip and company!
 From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and turn left. The Lonely Troll is the first building on your left (look for the mug icon on the compass).</description>
       <guid isPermaLink="false">discord-msg-1571556044939989074</guid>
       <pubDate>Sun, 15 Nov 2026 16:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1571676553497284733</link>
+      <description>This is happening now!
+
+**Solitude Tavern Night** 🍻
+
+**Today • 6:00 PM – 10:00 PM**
+
+Come to **The Lonely Troll Inn** in Solitude for some gossip and company!
+
+📍 **Location:** The Lonely Troll Inn, Solitude, Western Skyrim (In-Game)
+
+**How to get there:**
+From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and turn left. The Lonely Troll is the first building on your left (look for the mug icon on the compass).</description>
+      <guid isPermaLink="false">discord-msg-1571676553497284733</guid>
+      <pubDate>Mon, 16 Nov 2026 00:01:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
