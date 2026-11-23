@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:59:28 +0000</lastBuildDate>
-    <item>
-      <title>Message from ESO RP Beacon #worldwide-beacon</title>
-      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1569889378099138665</link>
-      <description>*And thus did the Barbarian depart - peaceably!*
-
-*The onlooking guards were astounded, in their own way, expecting the bridge to become bloodied by another, hasty combat. To hear them tell it, the braggart had left in friendship, proclaiming the last challenger for a new comrade in arms.*
-
-*Dragon Bridge has been opened, again, but there's little doubt that the warrior's aims in Haafingar had concluded. After all, friendship with a Nord is never easily given, and nearly always precludes a promise of fight.*</description>
-      <guid isPermaLink="false">discord-msg-1569889378099138665</guid>
-      <pubDate>Wed, 11 Nov 2026 01:39:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 00:04:29 +0000</lastBuildDate>
     <item>
       <title>Message from ESO RP Beacon #worldwide-beacon</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570241491975278594</link>
@@ -251,6 +240,24 @@ From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and 
       <description>(edit, CST)</description>
       <guid isPermaLink="false">discord-msg-1574199911983882350</guid>
       <pubDate>Sun, 22 Nov 2026 23:08:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1574212935075766365</link>
+      <description>Tavern night happening now!
+
+**Solitude Tavern Night** 🍻
+
+**Today • 6:00 PM CST – 10:00 PM CST**
+
+Come to **The Lonely Troll Inn** in Solitude for some gossip and company!
+
+📍 **Location:** The Lonely Troll Inn, Solitude, Western Skyrim (In-Game)
+
+**How to get there:**
+From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and turn left. The Lonely Troll is the first building on your left (look for the mug icon on the compass).</description>
+      <guid isPermaLink="false">discord-msg-1574212935075766365</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
