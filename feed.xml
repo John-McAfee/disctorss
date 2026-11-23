@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:18:09 +0000</lastBuildDate>
-    <item>
-      <title>Message from ESO RP Beacon #worldwide-beacon</title>
-      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570604012196208722</link>
-      <description>@Valenwood Ping 
-
-*A gathering at Tree-Ring Trading Circle **in Woodhearth** has begun for a public, interactive lecture on Perchance in Bosmeri life and magic.*
-
-(contact `@rosehead` for phasing or questions)</description>
-      <guid isPermaLink="false">discord-msg-1570604012196208722</guid>
-      <pubDate>Fri, 13 Nov 2026 00:59:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 23:23:11 +0000</lastBuildDate>
     <item>
       <title>Message from ESO RP Beacon #worldwide-beacon</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570968696778657815</link>
@@ -252,6 +241,27 @@ From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and 
       <description>(( Beacon departed! Check back tomorrow for the follow-up! ))</description>
       <guid isPermaLink="false">discord-msg-1574280785358487615</guid>
       <pubDate>Mon, 23 Nov 2026 04:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1574565699639058432</link>
+      <description>📍 **Karth River - Western Skyrim**
+
+*A warhorn sounds, joined by an echoing rattle of spears. The sound reaches through the breadth of the Karth river valley, met with response by a hundred or more war-cries and witch-chants.*
+
+*A dozen armed hands - farmers, porters, even simple drunks - marches out from the **Eversnow Inn,** beating a steady trek to the border of **The Reach,** every trackless mile preceded by a unified, blustering chant:*
+
+**"RAIDING! REAVING! REVENGE!"**
+
+*It's a rabble, to be sure, but one whose aim is steady and determined. They take pause at the bridge into Karthside proper, preparing to meet a line of arranged Reachfolk defenders.*
+
+*Alas! War is returned to Skyrim!*
+
+(( The first event in the **Bedlam at the Border** series -- taking players for both sides of a protracted engagement! Want to defend the Reach, or seize it's easy plunder? Jump in, and duke it out! **NO PERMANENT INJURY OR CHARACTER DEATH WILL BE ENFORCED,** this is simply for fun! ))
+
+(( Anchor: `@wyrdflex` / `Bralgi Floe-Foot`. This event is set to last a minute, and the outcome will ultimately be shaped by your efforts - so no worries for latecomers! ))</description>
+      <guid isPermaLink="false">discord-msg-1574565699639058432</guid>
+      <pubDate>Mon, 23 Nov 2026 23:21:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
