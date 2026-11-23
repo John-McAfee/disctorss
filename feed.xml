@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 04:26:06 +0000</lastBuildDate>
-    <item>
-      <title>Message from ESO RP Beacon #worldwide-beacon</title>
-      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570263620430856263</link>
-      <description>*Unhindered, the one-man riot went on through and unto morning, with only the promise of daylight plunder allowing for a break in his drinking.*
-
-*It would seem that the quiet holdfast of **Eversnow** is to remain - for now - the warrior's favored retreat.*
-
-( Beacon departed, but stay tuned for more in series! )</description>
-      <guid isPermaLink="false">discord-msg-1570263620430856263</guid>
-      <pubDate>Thu, 12 Nov 2026 02:27:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 04:31:12 +0000</lastBuildDate>
     <item>
       <title>Message from ESO RP Beacon #worldwide-beacon</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570604012196208722</link>
@@ -256,6 +245,13 @@ From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and 
 (( Contact:  `@wyrdflex` / `Unvlaugh of Karth`. Western Skyrim, just east of Dragon Bridge. NOTE: This area is subject to heavy instancing, so please whisper for an invite and transport! ))</description>
       <guid isPermaLink="false">discord-msg-1574265839123832966</guid>
       <pubDate>Mon, 23 Nov 2026 03:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1574280785358487615</link>
+      <description>(( Beacon departed! Check back tomorrow for the follow-up! ))</description>
+      <guid isPermaLink="false">discord-msg-1574280785358487615</guid>
+      <pubDate>Mon, 23 Nov 2026 04:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
