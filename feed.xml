@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:19:35 +0000</lastBuildDate>
-    <item>
-      <title>Message from ESO RP Beacon #worldwide-beacon</title>
-      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570968696778657815</link>
-      <description>&gt; &gt; *An Ohmes khajiit can be found in the Sugar Bowl in Rimmen, checking in a room and having a meal.*
-
-[Small, open RP in Rimmen, local characters suggested, but not required. Message
-`@rosehead` with questions]
-
-@Elsweyr Ping</description>
-      <guid isPermaLink="false">discord-msg-1570968696778657815</guid>
-      <pubDate>Sat, 14 Nov 2026 01:08:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 03:24:37 +0000</lastBuildDate>
     <item>
       <title>Message from ESO RP Beacon #worldwide-beacon</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1570974045460103283</link>
@@ -262,6 +250,19 @@ From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and 
 (( Anchor: `@wyrdflex` / `Bralgi Floe-Foot`. This event is set to last a minute, and the outcome will ultimately be shaped by your efforts - so no worries for latecomers! ))</description>
       <guid isPermaLink="false">discord-msg-1574565699639058432</guid>
       <pubDate>Mon, 23 Nov 2026 23:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1574625716190978110</link>
+      <description>*The battle went far into the night, breaking unto the first, weening hours of the dawn. Emboldened by the very storms, the Nord rabble did surge across the Karth, overtaking their foes, and putting flight to the Reach's first, errant lines of defense.*
+
+*Storms pervade yet upon the river, illuminating the somber work of death-tally. Soon, pyres ignite, their light illuminating the shoring barricades that emerge, roughshod, to guard the road.*
+
+*The battle is won, and the invaders stake their claim.*
+
+(( Even concluded! Thank you so much for all who attended! More to come soon! ))</description>
+      <guid isPermaLink="false">discord-msg-1574625716190978110</guid>
+      <pubDate>Tue, 24 Nov 2026 03:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
