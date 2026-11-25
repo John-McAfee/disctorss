@@ -7,23 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:18:43 +0000</lastBuildDate>
-    <item>
-      <title>Message from ESO RP Beacon #worldwide-beacon</title>
-      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1571228927010279466</link>
-      <description>&gt; *Students of the **Bard's College of Solitude** are receiving lesson, today - that being the difference between **noise** and **language**.*
-&gt; 
-&gt; 
-&gt; *The impetus for this study? A blustering braggart, war-dressed and abrasive. Staff have begun to complain after his presence, owing as much to his 'easterly airs' as to his incessant yammering.*
-&gt; 
-&gt; *To those unfortunate enough to catch his notice, the demands for song and history come incessant. Is he wanting entertainment, lecturing or simple adoration of his personal exploits?*
-&gt; 
-&gt; *Perhaps there's a Skald brave enough to chance the barbarian's request? Certainly, his removal from the College would go a ways to earning favor with the College maestros.*
-
-(Character: `Bralgi Floe-Foot` / Username: `@wyrdflex`, Bard's College, Solitude - Western Skyrim )</description>
-      <guid isPermaLink="false">discord-msg-1571228927010279466</guid>
-      <pubDate>Sat, 14 Nov 2026 18:22:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Nov 2026 04:23:45 +0000</lastBuildDate>
     <item>
       <title>Message from ESO RP Beacon #worldwide-beacon</title>
       <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1571260866123268108</link>
@@ -268,6 +252,21 @@ From the Solitude Docks Wayshrine, go uphill to the main city gates, enter, and 
 (( Anchor: `Ulnvaugh of Karth` / `@wyrdflex` - Rebel's Retreat, The Reach. Whisper for instancing and immediate port! ))</description>
       <guid isPermaLink="false">discord-msg-1574951455755075605</guid>
       <pubDate>Wed, 25 Nov 2026 00:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Message from ESO RP Beacon #worldwide-beacon</title>
+      <link>https://discord.com/channels/1565322753467224097/1565322824502083756/1575003235025027123</link>
+      <description>*A murder of ravens crests over the Retreat. Greedy for carrion, they circle long over the wounded.*
+
+*The Reach has it's own means and ways, and the flight of birds is but one tongue the spirits have. It would be a mistake to think the circling ravens for mere scavengers. Their course is more deliberate; their cawing song unmistaking, for those with ear to listen.*
+
+*Gradually, one at a time, the wounded begin to hear that song. They take leave from their tents, working past injury to follow the night, venturing out into the trackless dark. A raven follows each, the song pursuant.*
+
+*It would be easy to second-guess that sound, and ignore the almost-human talk beneath. When it quit, the dark was all that was left there, with not a sound to follow through the night.*
+
+(( Beacon departed. Thanks to all who came. Follow-up coming soon! ))</description>
+      <guid isPermaLink="false">discord-msg-1575003235025027123</guid>
+      <pubDate>Wed, 25 Nov 2026 04:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
